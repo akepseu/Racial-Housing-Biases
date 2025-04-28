@@ -1,0 +1,116 @@
+date: object
+zip: object
+state: object
+state_code: object
+property_type: object
+median_sale_price: float64
+median_list_price: float64
+total population: float64
+male: float64
+female: float64
+two or more races: float64
+one race:: float64
+one race: white: float64
+one race: black or african american: float64
+one race: american indian and alaska native: float64
+one race: american indian and alaska native cherokee: float64
+one race: american indian and alaska native chippewa: float64
+one race: american indian and alaska native navajo: float64
+one race: american indian and alaska native sioux: float64
+one race: asian: float64
+one race: asian indian: float64
+one race: asian chinese: float64
+one race: asian filipino: float64
+one race: asian japanese: float64
+one race: asian korean: float64
+one race: asian vietnamese: float64
+one race: asian other: float64
+one race: native hawaiian and other pacific islander: float64
+one race: native hawaiian: float64
+one race: chamorro: float64
+one race: samoan: float64
+one race: other pacific islander: float64
+one race: some other race: float64
+two or more races.1: float64
+two or more races: white and black or african american: float64
+two or more races: white and american indian and alaska native: float64
+two or more races: white and asian: float64
+two or more races: black or african american and american indian and alaska native: float64
+race alone or in combination with other races: float64
+race alone or in combination: white: float64
+race alone or in combination: black or african american: float64
+race alone or in combination: american indian and alaska native: float64
+race alone or in combination: asian: float64
+race alone or in combination: native hawaiian and other pacific islander: float64
+race alone or in combination: some other race:: float64
+hispanic or latino: total population: float64
+hispanic or latino: any race:: float64
+hispanic or latino: mexican: float64
+hispanic or latino: puerto rican: float64
+hispanic or latino: cuban: float64
+hispanic or latino: other: float64
+not hispanic or latino:: float64
+not hispanic or latino: white alone: float64
+not hispanic or latino: black or african american alone: float64
+not hispanic or latino: american indian and alaska native alone: float64
+not hispanic or latino: asian alone: float64
+not hispanic or latino: native hawaiian and other pacific islander alone: float64
+not hispanic or latino: some other race alone: float64
+not hispanic or latino: two or more races: float64
+not hispanic or latino: two races including some other race:: float64
+not hispanic or latino: two races excluding some other race:: float64
+total housing units: float64
+percentage of total population: float64
+percentage of male: object
+percentage of female: object
+percentage of two or more races: object
+percentage of one race:: object
+percentage of one race: white: object
+percentage of one race: black or african american: object
+percentage of one race: american indian and alaska native: object
+percentage of one race: cherokee: object
+percentage of one race: chippewa: object
+percentage of one race: navajo: object
+percentage of one race: sioux: object
+percentage of one race: asian: object
+percentage of one race: asian indian: object
+percentage of one race: asian chinese: object
+percentage of one race: asian filipino: object
+percentage of one race: asian japanese: object
+percentage of one race: asian korean: object
+percentage of one race: asian vietnamese: object
+percentage of one race: asian other: object
+percentage of one race: native hawaiian and other pacific islander: object
+percentage of one race: native hawaiian: object
+percentage of one race: chamorro: object
+percentage of one race: samoan: object
+percentage of one race: other pacific islander: object
+percentage of one race: some other race:: object
+percentage of two or more races.1: object
+percentage of two races: white and black or african american: object
+percentage of two races: white and american indian and alaska native: object
+percentage of two races: white and asian: object
+percentage of two races: black or african american and american indian and alaska native: object
+percentage of race alone or in combination with other races: float64
+percentage of race alone or in combination: white: object
+percentage of race alone or in combination: black or african american: object
+percentage of race alone or in combination: american indian and alaska native: object
+percentage of race alone or in combination: asian: object
+percentage of race alone or in combination: native hawaiian and other pacific islander: object
+percentage of race alone or in combination: some other race:: object
+percentage of hispanic or latino total population: float64
+percentage of hispanic or latino: any race:: object
+percentage of hispanic or latino: mexican: object
+percentage of hispanic or latino: puerto rican: object
+percentage of hispanic or latino: cuban: object
+percentage of hispanic or latino: other: object
+percentage of not hispanic or latino: object
+percentage of not hispanic or latino: white alone: object
+percentage of not hispanic or latino: black or african american alone: object
+percentage of not hispanic or latino: american indian and alaska native alone: object
+percentage of not hispanic or latino: asian alone: object
+percentage of not hispanic or latino: native hawaiian and other pacific islander alone: object
+percentage of not hispanic or latino: some other race alone: object
+percentage of not hispanic or latino: two or more races: object
+percentage of not hispanic or latino: two races including some other race: object
+percentage of not hispanic or latino: two races excluding some other race and three or more races: object
